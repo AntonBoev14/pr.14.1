@@ -1,0 +1,5 @@
+﻿  pr15.1boev.cpp
+X:\ОАИП\ПР\ПР 15\pr15.1boev\pr15.1boev\pr15.1boev.cpp(16,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+X:\ОАИП\ПР\ПР 15\pr15.1boev\pr15.1boev\pr15.1boev.cpp(15,12): warning C4101: j: неиспользованная локальная переменная
+X:\ОАИП\ПР\ПР 15\pr15.1boev\pr15.1boev\pr15.1boev.cpp(15,9): warning C4101: i: неиспользованная локальная переменная
+  pr15.1boev.vcxproj -> X:\ОАИП\ПР\ПР 15\pr15.1boev\x64\Debug\pr15.1boev.exe
